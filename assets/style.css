@@ -1,0 +1,26 @@
+#loader {
+    position: absolute;
+    top: 10px;
+    left: 30px;
+    z-index: 100;
+  }
+  
+  #canvas {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  audio {
+    position: absolute;
+    left: 60px;
+    bottom: 100px;
+    width: 50%;
+  }
+
+
+
+
+
